@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/morozmn/study/issues"
   },
-  "homepage": "https://github.com/morozmn/study#readme"
+  "homepage": "https://github.com/morozmn/study#readme",
+  "dependencies": {
+    "eslint": "^8.20.0"
+  }
 }
